@@ -1,12 +1,9 @@
 """
 arabinose_oxidation_model.py
 ============================
-Fully self-contained Python implementation of the Hachhach–Salmi multi-scale
+Fully self-contained Python implementation of the Salmi multi-scale
 model for the selective oxidation of L-arabinose to L-arabinonic acid over
 Au/γ-Al₂O₃ in a tandem packed-bed / completely-recycled CSTR.
-
-Reproduces ALL results and figures in
-  Hachhach, Wärna, Salmi — Chemical Engineering Journal (2025)
 
 Usage
 -----
